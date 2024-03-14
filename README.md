@@ -1,16 +1,6 @@
-# icecream_shop
+# Flutter: Asynchrony Support
 
-A new Flutter project.
+I have recently familiarized myself with the Asynchronous feature of Flutter Dev. A couple of things I have experimented on are the use of the 'Future class' in Dart and the asynchronous functions. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Beige 3D Elements Financial Technology (Fintech) Technology Presentation](https://github.com/clely19/asynchrony_ice_cream_shop/assets/85277981/9f925185-6983-47ea-9ae5-089c0539936a)
